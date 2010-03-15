@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>Basic</item>
+        <item>Brainfuck</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>C++</item>
+        <item>Common Lisp</item>
+        <item>D</item>
+        <item>Delphi</item>
+        <item>Haskell</item>
+        <item>HSP</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Pascal</item>
+        <item>Perl</item>
+        <item>Prorog</item>
+        <item>Python</item>
+        <item>R</item>
+        <item>Ruby</item>
+        <item>Scheme</item>
+        <item>Smalltalk</item>
+        <item>Squeak</item>
+        <item>Visual Basic</item>
+        <item>Visual Basic .NET</item>
+    </string-array>
+</resources>
